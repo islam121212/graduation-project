@@ -12,7 +12,7 @@
 <nav class="navbar navbar-light bg-light">
 
   <a class="navbar-brand" href="#">
-    Coder Shiyar
+    ADMIN
   </a>
 
   <img src="../img/logo.jpg" width="50" height="50" class="d-inline-block align-top" alt="" loading="lazy">
